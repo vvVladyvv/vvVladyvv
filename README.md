@@ -15,13 +15,13 @@
 
 🚀 About Me
 
-👨‍💻 Software Engineer in the making, driven by the challenge of transforming ideas into efficient and elegant solutions.
-🛠️ Over 3 years sharpening my skills in programming, software design, and problem-solving through constant practice and projects.
-📚 A lifelong learner, always exploring new technologies, frameworks, and methodologies to stay ahead of the curve.
-🤖 Currently diving into Artificial Intelligence, Web Development, and Systems Architecture, expanding my toolkit and vision as a developer.
-🌍 Open to collaborations, challenging projects, and professional opportunities where I can grow while contributing value.
+- 👨‍💻 Ingeniero de Software en crecimiento, impulsado por el desafío de transformar ideas en soluciones eficientes y elegantes.
+- 🛠️ Más de 3 años perfeccionando mis habilidades en programación, diseño de software y resolución de problemas a través de práctica y proyectos constantes.
+- 📚 Un aprendiz permanente, siempre explorando nuevas tecnologías, marcos y metodologías para mantenerse a la vanguardia.
+- 🤖 Especializándome en el desarrollo de habilidades para construir, optimizar y dar solución a aplicaciones, mientras amplío mis conocimientos en Inteligencia Artificial y Ciberseguridad.
+- 🌍 Abierto a colaboraciones, proyectos desafiantes y oportunidades profesionales donde pueda crecer aportando valor.
 
-💡 My philosophy: code not only to solve problems, but to create impact.
+💡 Mi filosofía: codificar no sólo para resolver problemas sino para crear impacto.
 <br>
 
 <br>
