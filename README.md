@@ -13,11 +13,15 @@
 
 <br><br>
 
-● Iniciando mi camino como **Ingeniero de Software**, con pasión por crear soluciones eficientes y elegantes.  
-●  3 años desarrollando y puliendo mis habilidades en programación, diseño de software y resolución de problemas.  
-●  Siempre aprendiendo nuevas tecnologías, frameworks y metodologías para mantenerme a la vanguardia.  
-●  Actualmente explorando áreas de **Inteligencia Artificial, Desarrollo Web y Arquitectura de Sistemas**.  
-●  Abierto a **colaboraciones, proyectos desafiantes y nuevas oportunidades profesionales**.
+🚀 About Me
+
+👨‍💻 Software Engineer in the making, driven by the challenge of transforming ideas into efficient and elegant solutions.
+🛠️ Over 3 years sharpening my skills in programming, software design, and problem-solving through constant practice and projects.
+📚 A lifelong learner, always exploring new technologies, frameworks, and methodologies to stay ahead of the curve.
+🤖 Currently diving into Artificial Intelligence, Web Development, and Systems Architecture, expanding my toolkit and vision as a developer.
+🌍 Open to collaborations, challenging projects, and professional opportunities where I can grow while contributing value.
+
+💡 My philosophy: code not only to solve problems, but to create impact.
 <br>
 
 <br>
