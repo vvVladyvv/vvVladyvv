@@ -2,9 +2,11 @@
   <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner">
 </p>
 
-<h1 align="center">Software Engineer</h1>
+<h1 align="center">Junior Software Engineer</h1>
 
-<h3 align="center">Software Developer | AI Developer | Wep Pages Developer</h3>
+<h3 align="center">
+  Software Developer · AI Developer · Wep Developer
+</h3>
 
 <!-- ## 👋 &nbsp;Hi! Im _Vlady here my introducction. -->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
@@ -53,7 +55,7 @@
 
 #### 🧑‍💻 General Activity
 
-![General Activity](https://github-readme-stats.vercel.app/api?username=vvVladyvv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true)
+![General Activity](https://github-readme-stats.vercel.app/api?username=vvVladyvv&show_icons=true&theme=radical)
 
 #### 🌐 Most used technologies
 ![Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=vvVladyvv&layout=compact&langs_count=8&theme=radical&hide_title=true)
