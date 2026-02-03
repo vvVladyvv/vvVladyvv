@@ -2,26 +2,25 @@
   <img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner">
 </p>
 
-<h1 align="center">Ingeniero de software en ascenso</h1>
+<h1 align="center">Software Engineer</h1>
 
-<h3 align="center">Desarrollador de software | Machine learning | Ciberseguridad</h3>
+<h3 align="center">Software Developer | AI Developer | Wep Pages Developer</h3>
 
-
-<!-- ## 👋 &nbsp;Hola! Soy _Vlady aqui mi introduccion. -->
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+<!-- ## 👋 &nbsp;Hi! Im _Vlady here my introducction. -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
 🚀 About Me
 
-- 👨‍💻 Ingeniero de Software en crecimiento, impulsado por el desafío de transformar ideas en soluciones eficientes y elegantes.
-- 🛠️ Más de 3 años perfeccionando mis habilidades en programación, diseño de software y resolución de problemas a través de práctica y proyectos constantes.
-- 📚 Un aprendiz permanente, siempre explorando nuevas tecnologías, marcos y metodologías para mantenerse a la vanguardia.
-- 🤖 Especializándome en el desarrollo de habilidades para construir, optimizar y dar solución a aplicaciones, mientras amplío mis conocimientos en Inteligencia Artificial y Ciberseguridad.
-- 🌍 Abierto a colaboraciones, proyectos desafiantes y oportunidades profesionales donde pueda crecer aportando valor.
+- 👨‍💻 Growing Software Engineer, driven by the challenge of transforming ideas into efficient and elegant solutions.
+- 🛠️ Hone my programming, software design, and problem-solving skills through constant practice and projects; a lifelong learner.
+- 🤖 Specializing in developing skills to build, optimize, design, and troubleshoot systems, currently focusing on backend, AI, and frontend.
+- 🌍 Open to collaborations, challenging projects, and professional opportunities where I can grow and add value.
 
-💡 Mi filosofía: codificar no sólo para resolver problemas sino para crear impacto.
+💡  1% better every day
+
 <br>
 
 <br>
@@ -30,34 +29,42 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Herramientas que domino. (Click a una)
+### 🛠 &nbsp;Technologies I work with.
 
 [![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)](https://github.com/vvVladyvv/Python)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-### 📊 &nbsp;Estadísticas de mi GitHub
-
-#### 🧑‍💻 Actividad General
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=vvVladyvv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true)
-
-#### 🌐 Lenguajes Más Usados
-
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=vvVladyvv&layout=compact&langs_count=8&theme=radical&hide_title=true)
+[![HTML5](https://img.shields.io/badge/-html-05122A?style=flat&logo=HTML5)]
+[![CSS3](https://img.shields.io/badge/-css-05122A?style=flat&logo=css)]
+[![FastApi](https://img.shields.io/badge/-fastapi-05122A?style=flat&logo=fastapi)]
+[![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)]
 
 
-### 🤝🏻 &nbsp;Contactame
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+### 📊 &nbsp;My GitHub statistics
+
+
+#### 🧑‍💻 General Activity
+
+![General Activity](https://github-readme-stats.vercel.app/api?username=vvVladyvv&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true)
+
+#### 🌐 Most used technologies
+![Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=vvVladyvv&layout=compact&langs_count=8&theme=radical&hide_title=true)
+
+
+### 🤝🏻 &nbsp;Contact me
 
 <p align="center">
 <a href="https://www.instagram.com/el_yensi_"><img src="https://img.shields.io/badge/-@_Vladyvv4-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 -----
-Espero le haya interesado algo de mi perfil. Feliz dia!
+I hope you found something interesting on my profile. Happy developing!
 
